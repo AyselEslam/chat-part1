@@ -1,0 +1,21 @@
+#login_body
+{
+    background: linear-gradient(purple, lightpink);
+    background-size: cover;
+}
+
+#login_button
+{
+    background-image: linear-gradient(purple, lightpink);
+    border-radius: 10px;
+    border-color: whitesmoke;
+    width: 300px;
+    height: 70;
+    border-style: solid;
+}
+
+#login_div
+{
+    background-color: white;
+    margin-bottom: 70px;
+}
